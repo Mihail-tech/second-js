@@ -72,7 +72,7 @@ console.log(Object.keys(popul)); //узнать все ключи
 popul.password = '123' //добовлем новый ключи и значение
 console.log(popul);*/
 
-//1 task
+// 1 task
 let dayWeek = {
     1: 'понедельник',
     2: 'вторник',
